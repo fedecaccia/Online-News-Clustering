@@ -1,0 +1,4 @@
+TWITTER_KEY = "" #token
+TWITTER_SECRET = "" #token_secret
+TWITTER_APP_KEY = ""
+TWITTER_APP_SECRET = ""
