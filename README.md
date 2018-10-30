@@ -87,6 +87,9 @@ Once the algorithm has been running for a while, you can plot current cluster re
 python3 cluster_plotter.py
 ```
 
+## User's manual
+The [User's Manual](./user_manual.md) explain how to use the available parameters and define study cases in `settings.py`.
+
 ## Main features:
 
 - Execution modes: There are two main modes of execution:
