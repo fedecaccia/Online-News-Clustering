@@ -1,4 +1,4 @@
-# Online trending detection
+# Online News Clustering
 
 This program performs an incremental clustering algorithm over news and social media articles. It can be used to quicly and efficiently detect bursting topics on internet.
 
