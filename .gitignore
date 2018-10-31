@@ -2,3 +2,4 @@
 *.csv
 *.txt
 *.db
+!requirements.txt

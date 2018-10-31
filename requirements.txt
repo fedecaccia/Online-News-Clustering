@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+sklearn==0.17
+tweepy
+textblob
+spacy
+# python3 -m spacy download en
+pystas
+dataset
+datafreeze
+sqlalchemy
+feedparser
+requests
+dragnet
+langdetect
