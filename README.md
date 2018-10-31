@@ -40,7 +40,7 @@ The programs uses the following libraries listed on requeriments.txt:
 To install them type on terminal:
 
 ```
-pip install -r requeriments.txt
+pip install -r requirements.txt
 ```
 
 In order to use Spacy with english words, you have to download the english dicitionary typing:
